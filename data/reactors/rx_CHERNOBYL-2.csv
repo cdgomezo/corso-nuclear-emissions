@@ -1,0 +1,6 @@
+,Country,Reactor,Type,Status,Year,Electricity Supplied [GW.h],Annual Time On Line [h],Source
+9,UKRAINE,CHERNOBYL-2,LWGR,Permanent Shutdown,1987,6826.9,7367.0,https://pris.iaea.org/PRIS/CountryStatistics/ReactorDetails.aspx?current=569
+10,UKRAINE,CHERNOBYL-2,LWGR,Permanent Shutdown,1988,6112.73,7176.0,https://pris.iaea.org/PRIS/CountryStatistics/ReactorDetails.aspx?current=569
+11,UKRAINE,CHERNOBYL-2,LWGR,Permanent Shutdown,1989,6393.87,7627.0,https://pris.iaea.org/PRIS/CountryStatistics/ReactorDetails.aspx?current=569
+12,UKRAINE,CHERNOBYL-2,LWGR,Permanent Shutdown,1990,4374.89,6808.0,https://pris.iaea.org/PRIS/CountryStatistics/ReactorDetails.aspx?current=569
+13,UKRAINE,CHERNOBYL-2,LWGR,Permanent Shutdown,1991,2781.39,4818.0,https://pris.iaea.org/PRIS/CountryStatistics/ReactorDetails.aspx?current=569

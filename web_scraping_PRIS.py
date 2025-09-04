@@ -32,7 +32,7 @@ def fetch_and_save_reactor_details(index):
                 except Exception as e:
                     # print(f"Error processing table row: {e}")
                     pass
-            df_rx.to_csv(f'data/rx_{name}.csv')
+            df_rx.to_csv(f'data/reactors/rx_{name}.csv')
     except Exception as e:
         # print(f"Error fetching reactor details for index {index}: {e}")
         pass
@@ -55,6 +55,6 @@ if __name__ == '__main__':
     # df = df.loc[(df['Year'] >= 2017) & (df['Year'] <= 2020)]
     df = df.loc[df['Annual Time On Line [h]'] > 0]
     df.reset_index(drop=True, inplace=True)
-    df.to_csv('data/reactors_all.csv')
+    df.to_csv('data/reactors_all_PRIS.csv')
 
 # Execute the parallel fetching and saving

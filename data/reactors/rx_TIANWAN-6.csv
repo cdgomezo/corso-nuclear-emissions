@@ -1,0 +1,5 @@
+,Country,Reactor,Type,Status,Year,Electricity Supplied [GW.h],Annual Time On Line [h],Source
+0,CHINA,TIANWAN-6,PWR,Operational,2021,5786.59,5636.0,https://pris.iaea.org/PRIS/CountryStatistics/ReactorDetails.aspx?current=976
+1,CHINA,TIANWAN-6,PWR,Operational,2022,7538.05,7643.0,https://pris.iaea.org/PRIS/CountryStatistics/ReactorDetails.aspx?current=976
+2,CHINA,TIANWAN-6,PWR,Operational,2023,8344.0,8254.0,https://pris.iaea.org/PRIS/CountryStatistics/ReactorDetails.aspx?current=976
+3,CHINA,TIANWAN-6,PWR,Operational,2024,8493.35,8771.0,https://pris.iaea.org/PRIS/CountryStatistics/ReactorDetails.aspx?current=976

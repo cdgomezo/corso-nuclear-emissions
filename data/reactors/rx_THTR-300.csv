@@ -1,0 +1,4 @@
+,Country,Reactor,Type,Status,Year,Electricity Supplied [GW.h],Annual Time On Line [h],Source
+1,GERMANY,THTR-300,HTGR,Permanent Shutdown,1986,558.85,0.0,https://pris.iaea.org/PRIS/CountryStatistics/ReactorDetails.aspx?current=92
+2,GERMANY,THTR-300,HTGR,Permanent Shutdown,1987,1134.33,3129.0,https://pris.iaea.org/PRIS/CountryStatistics/ReactorDetails.aspx?current=92
+3,GERMANY,THTR-300,HTGR,Permanent Shutdown,1988,294.63,1371.0,https://pris.iaea.org/PRIS/CountryStatistics/ReactorDetails.aspx?current=92

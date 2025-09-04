@@ -1,0 +1,4 @@
+,Country,Reactor,Type,Status,Year,Electricity Supplied [GW.h],Annual Time On Line [h],Source
+1,INDIA,KAKRAPAR-3,PHWR,Operational,2022,0.76,2799.0,https://pris.iaea.org/PRIS/CountryStatistics/ReactorDetails.aspx?current=986
+2,INDIA,KAKRAPAR-3,PHWR,Operational,2023,3422.13,6443.0,https://pris.iaea.org/PRIS/CountryStatistics/ReactorDetails.aspx?current=986
+3,INDIA,KAKRAPAR-3,PHWR,Operational,2024,3603.32,6332.0,https://pris.iaea.org/PRIS/CountryStatistics/ReactorDetails.aspx?current=986

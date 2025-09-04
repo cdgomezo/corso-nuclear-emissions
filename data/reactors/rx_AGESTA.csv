@@ -1,0 +1,5 @@
+,Country,Reactor,Type,Status,Year,Electricity Supplied [GW.h],Annual Time On Line [h],Source
+7,SWEDEN,AGESTA,PHWR,Permanent Shutdown,1971,30.0,3072.0,https://pris.iaea.org/PRIS/CountryStatistics/ReactorDetails.aspx?current=528
+8,SWEDEN,AGESTA,PHWR,Permanent Shutdown,1972,49.0,0.0,https://pris.iaea.org/PRIS/CountryStatistics/ReactorDetails.aspx?current=528
+9,SWEDEN,AGESTA,PHWR,Permanent Shutdown,1973,43.5,6345.0,https://pris.iaea.org/PRIS/CountryStatistics/ReactorDetails.aspx?current=528
+10,SWEDEN,AGESTA,PHWR,Permanent Shutdown,1974,18.1,3563.0,https://pris.iaea.org/PRIS/CountryStatistics/ReactorDetails.aspx?current=528

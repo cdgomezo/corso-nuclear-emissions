@@ -1,0 +1,6 @@
+,Country,Reactor,Type,Status,Year,Electricity Supplied [GW.h],Annual Time On Line [h],Source
+0,RUSSIA,LENINGRAD 2-2,PWR,Operational,2020,659.54,1242.0,https://pris.iaea.org/PRIS/CountryStatistics/ReactorDetails.aspx?current=901
+1,RUSSIA,LENINGRAD 2-2,PWR,Operational,2021,8361.9,7935.0,https://pris.iaea.org/PRIS/CountryStatistics/ReactorDetails.aspx?current=901
+2,RUSSIA,LENINGRAD 2-2,PWR,Operational,2022,7510.31,6919.0,https://pris.iaea.org/PRIS/CountryStatistics/ReactorDetails.aspx?current=901
+3,RUSSIA,LENINGRAD 2-2,PWR,Operational,2023,8555.51,7905.0,https://pris.iaea.org/PRIS/CountryStatistics/ReactorDetails.aspx?current=901
+4,RUSSIA,LENINGRAD 2-2,PWR,Operational,2024,8169.97,7787.0,https://pris.iaea.org/PRIS/CountryStatistics/ReactorDetails.aspx?current=901

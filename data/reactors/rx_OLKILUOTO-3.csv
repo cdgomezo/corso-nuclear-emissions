@@ -1,0 +1,4 @@
+,Country,Reactor,Type,Status,Year,Electricity Supplied [GW.h],Annual Time On Line [h],Source
+0,FINLAND,OLKILUOTO-3,PWR,Operational,2022,1886.77,2145.0,https://pris.iaea.org/PRIS/CountryStatistics/ReactorDetails.aspx?current=860
+1,FINLAND,OLKILUOTO-3,PWR,Operational,2023,10371.84,7156.0,https://pris.iaea.org/PRIS/CountryStatistics/ReactorDetails.aspx?current=860
+2,FINLAND,OLKILUOTO-3,PWR,Operational,2024,9690.46,6892.0,https://pris.iaea.org/PRIS/CountryStatistics/ReactorDetails.aspx?current=860

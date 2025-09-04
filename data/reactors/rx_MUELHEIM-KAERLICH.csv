@@ -1,0 +1,4 @@
+,Country,Reactor,Type,Status,Year,Electricity Supplied [GW.h],Annual Time On Line [h],Source
+0,GERMANY,MUELHEIM-KAERLICH,PWR,Permanent Shutdown,1986,1357.59,0.0,https://pris.iaea.org/PRIS/CountryStatistics/ReactorDetails.aspx?current=96
+1,GERMANY,MUELHEIM-KAERLICH,PWR,Permanent Shutdown,1987,2904.3,1564.0,https://pris.iaea.org/PRIS/CountryStatistics/ReactorDetails.aspx?current=96
+2,GERMANY,MUELHEIM-KAERLICH,PWR,Permanent Shutdown,1988,6029.36,5884.0,https://pris.iaea.org/PRIS/CountryStatistics/ReactorDetails.aspx?current=96

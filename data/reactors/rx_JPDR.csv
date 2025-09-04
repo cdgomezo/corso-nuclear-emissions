@@ -1,0 +1,4 @@
+,Country,Reactor,Type,Status,Year,Electricity Supplied [GW.h],Annual Time On Line [h],Source
+11,JAPAN,JPDR,BWR,Permanent Shutdown,1974,0.0,0.0,https://pris.iaea.org/PRIS/CountryStatistics/ReactorDetails.aspx?current=333
+12,JAPAN,JPDR,BWR,Permanent Shutdown,1975,6.5,920.0,https://pris.iaea.org/PRIS/CountryStatistics/ReactorDetails.aspx?current=333
+13,JAPAN,JPDR,BWR,Permanent Shutdown,1976,4.3,454.0,https://pris.iaea.org/PRIS/CountryStatistics/ReactorDetails.aspx?current=333

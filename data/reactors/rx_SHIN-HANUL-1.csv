@@ -1,0 +1,4 @@
+,Country,Reactor,Type,Status,Year,Electricity Supplied [GW.h],Annual Time On Line [h],Source
+0,"KOREA, REPUBLIC OF",SHIN-HANUL-1,PWR,Operational,2022,3090.99,3144.0,https://pris.iaea.org/PRIS/CountryStatistics/ReactorDetails.aspx?current=887
+1,"KOREA, REPUBLIC OF",SHIN-HANUL-1,PWR,Operational,2023,12319.2,8760.0,https://pris.iaea.org/PRIS/CountryStatistics/ReactorDetails.aspx?current=887
+2,"KOREA, REPUBLIC OF",SHIN-HANUL-1,PWR,Operational,2024,8368.94,5989.0,https://pris.iaea.org/PRIS/CountryStatistics/ReactorDetails.aspx?current=887
